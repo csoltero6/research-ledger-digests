@@ -1,0 +1,14 @@
+{
+  "generated_utc": "2026-07-02T19:48:08+00:00",
+  "chain_ok": true,
+  "total_events": 10051,
+  "chain_head": "sha256:cd63823d1383ca950b6e0d3e994f0368858b1b8b408f0afaa9fc5aa1981e380a",
+  "segments": [
+    {
+      "segment": "2026-07.jsonl",
+      "events": 10051,
+      "first_event_id": "01KWJ5JVZ6AK6JP2H4BVDAZDG5",
+      "last_event_id": "01KWJ5ZMY9KCZHD8SA72T3JYJ5"
+    }
+  ]
+}

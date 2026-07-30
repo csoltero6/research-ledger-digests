@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-29T11:43:52+00:00",
+  "generated_utc": "2026-07-30T11:42:48+00:00",
   "chain_ok": true,
-  "total_events": 22945,
-  "chain_head": "sha256:17887464f69ee085974e2d0d853990b619a7b7ea5dd1d8ce440350611f2a260d",
+  "total_events": 23303,
+  "chain_head": "sha256:5dc80a3b48b565f7f8cfc7aae59543d31232181e05553cd9fc846a9c8701a826",
   "segments": [
     {
       "segment": "2026-07.jsonl",
-      "events": 22945,
+      "events": 23303,
       "first_event_id": "01KWJ5JVZ6AK6JP2H4BVDAZDG5",
-      "last_event_id": "01KYPV09PC6GW1C95JKREKGR0B"
+      "last_event_id": "01KYSDB2EQFV5GPV1FBEFB4RBD"
     }
   ],
   "export": {
-    "public": 17862,
-    "redacted": 5083
+    "public": 18198,
+    "redacted": 5105
   },
   "export_verified": true,
   "export_head_matches": true

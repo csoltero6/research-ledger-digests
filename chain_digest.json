@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-08-23T11:43:26+00:00",
+  "generated_utc": "2026-08-24T11:43:58+00:00",
   "chain_ok": true,
-  "total_events": 30300,
-  "chain_head": "sha256:b5cc1543de06aad383a9b78b344e560e1412a0571a9521372b782a5951fa547a",
+  "total_events": 30477,
+  "chain_head": "sha256:7f33ceb13165e88260408c48fee5d21e29176568b6a8d531ec0cdec94ff2e9e8",
   "segments": [
     {
       "segment": "2026-07.jsonl",
@@ -12,13 +12,13 @@
     },
     {
       "segment": "2026-08.jsonl",
-      "events": 6636,
+      "events": 6813,
       "first_event_id": "01KYWHWNCXFGFD6K4V1GWQY4RG",
-      "last_event_id": "01M0Q6XF0QMTEW7DEF41JGTW61"
+      "last_event_id": "01M0SSB4W8CS4CXFKJAT504KDN"
     }
   ],
   "export": {
-    "public": 24124,
+    "public": 24301,
     "redacted": 6176
   },
   "export_verified": true,
